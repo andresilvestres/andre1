@@ -1,4 +1,4 @@
-module github.com/andresilvestres/andre
+module github.com/andresilvestres/andre1
 
 go 1.19
 
